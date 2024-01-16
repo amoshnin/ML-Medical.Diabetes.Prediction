@@ -1,1 +1,1 @@
-# My Data Analysis & Machine Learning Project on Medical Diabetes Prediction
+# My Machine Learning Project on Medical Diabetes Prediction
